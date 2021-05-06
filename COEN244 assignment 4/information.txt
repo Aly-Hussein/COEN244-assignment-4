@@ -1,0 +1,5 @@
+laptop toshiba 1000243 red 2000.400000 5 0
+laptop Dell 1000343 green 2000.400000 5 1
+cellphone iphone 10023443 blue 2000.400000 3
+smartwatch samsung 13737243 black 2000.400000 3
+cellphone pixel 1037373243 white 2000.400000 4
